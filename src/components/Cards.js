@@ -31,5 +31,6 @@ function Cards({data1, data2, title, type, makeAnAppointment, star1, star2}) {
     </div>
   );
 }
+//ne radi commit
 
 export default Cards;

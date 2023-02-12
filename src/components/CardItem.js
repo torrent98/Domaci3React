@@ -50,4 +50,6 @@ function CardItem({name, src, star, checked, type, makeAnAppointment, star1, sta
   );
 }
 
+//commit greska
+
 export default CardItem;
