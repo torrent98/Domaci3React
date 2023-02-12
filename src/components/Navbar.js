@@ -7,7 +7,7 @@ function Navbar({num}) {
       <nav className='navbar'>
         <div className='navbar-container'>
           <Link to='/' className='navbar-logo'>
-            Fast&Furious Services
+            F&Fs Services
             <i class="fas fast-furious"></i>
           </Link>
           <ul className='nav-menu'>

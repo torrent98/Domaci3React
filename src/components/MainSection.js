@@ -38,12 +38,12 @@ function MainSection() {
           className='btns'
           buttonStyle='btn--outline'
           buttonSize='btn--large'
-          link='/services'
-        >
+          link='/services'>
           MAKE AN APPOINTMENT
         </Button>
       </div>
     </div>
+
     <div className='main-text'>
     <h1>ABOUT</h1>
     <h3> at Los Angeles California district.</h3>
